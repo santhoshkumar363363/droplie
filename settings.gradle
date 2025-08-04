@@ -1,2 +1,2 @@
-rootProject.name = 'Droplie'
 include ':app'
+rootProject.name = 'DROPLIE'
